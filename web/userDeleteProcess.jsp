@@ -66,7 +66,6 @@
     <div class="com-sm-offset-2 col-sm-10">
         <a class="btn btn-primaryhref=" href="seeAllUsers.jsp">회원 확인하기</a>
         <a class="btn btn-primaryhref=" href="adminLogin.jsp">초기화면으로 돌아가기</a>
-
     </div>
 </div>
 </body>
