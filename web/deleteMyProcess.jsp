@@ -62,10 +62,10 @@
     </div>
 </div>
 <div class="form-group now">
-    <div class="com-sm-offset-2 col-sm-10">
-        <a class="btn btn-primaryhref=" href="index.jsp">초기화면으로 돌아가기</a>
-
-    </div>
+    <%
+        session.invalidate();
+        response.sendRedirect("index.jsp");
+    %>
 </div>
 </body>
 </html>
