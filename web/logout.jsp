@@ -18,6 +18,5 @@
 %>
 
 
-출처: https://parkdex.tistory.com/145 [PARKDEX]
 </body>
 </html>
